@@ -16,6 +16,7 @@ type: pip install opencv-python
 
 # code breakdown
 here i will breakdown or we can say note down most important codes and their working in our project.
+
 1)import cv2: Imports the necessary OpenCV library.
 
 2)face_Cascade = cv2.CascadeClassifier(cv2.data.haarcascades + "haarcascade_frontalface_default.xml")
